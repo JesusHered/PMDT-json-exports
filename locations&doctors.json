@@ -1,102 +1,29 @@
-[
-  {
-    "alt": "A nurses hand holds a foam heart representing cardiology care ",
-    "image": "nurses-hand-holds-foam-heart.jpg"
-  },
-  {
-    "alt": "An expecting mother holds a sonogram image of her child ",
-    "image": "pregnant-mother-holds-sonogram-of-child.jpg"
-  },
-  {
-    "alt": "Mature woman looking to the sky with a smile outside the ProMedica Cancer Institute",
-    "image": "smiling-mature-woman-looks-up-at-sky.jpg"
-  },
-  {
-    "alt": "A seated man holds his knee while wearing a knee brace ",
-    "image": "man-squeezes-knee-brace.jpg"
-  },
-  {
-    "alt": "A mature pediatric male doctor listens to a boys breathing with a stethoscope ",
-    "image": "mature-doctor-uses-stethoscope-listens-to-boys-breathing.jpg"
-  },
-  {
-    "alt": "A young female doctor listens to a boys heartbeat with a stethoscope ",
-    "image": "female-doctor-listens-to-boys-heartbeat.jpg"
-  },
-  {
-    "alt": "A young man and woman smile while jogging during the day , ",
-    "image": "man-and-woman-jog-and-smile.jpg"
-  },
-  {
-    "alt": "A woman covered in mud struggles to pull herself up a workout wall using a rope ",
-    "image": "woman-covered-in-mud-uses-a-workout-rope.jpg"
-  },
-  {
-    "alt": "Exterior view of a residental bungalow at ProMedica's Lely Palms ",
-    "image": "exterior-view-of-residential-bungalow-with-car.jpg"
-  },
-  {
-    "alt": "Exterior view of the ProMedica Fostoria Community Hospital Cancer Center ",
-    "image": "exterior-main-emergency-entrance-fostoria-hospital.jpg"
-  },
-  {
-    "alt": "Exterior front view of ProMedica Flower hospital in Sylvania, Ohio ",
-    "image": "flower-hospital-day.jpg"
-  },
-  {
-    "alt": "Exterior front view of the ProMedica Charles and Virginia Hickman hospital in Adrian, Michigan ",
-    "image": "charles-and-virginia-hickman-hospital.jpg"
-  },
-  {
-    "alt": "A home health nurse helps an elderly woman read a nutrition label ",
-    "image": "nurse-reads-nutrition-label-to-elderly-woman.jpg"
-  },
-  {
-    "alt": "A nurse leans over and puts her hand around the shoulder of a female hospice patient",
-    "image": "nurse-puts-her-hand-around-patients-shoulder.jpg"
-  },
-  {
-    "alt": "Exterior view of ProMedica hospital in Toledo, Ohio ",
-    "image": "exterior-of-toldedo-hospital.jpg"
-  },
-  {
-    "alt": "Exterior view of ProMedica Laboratories Levis Commons ",
-    "image": "exterior-promedica-levi-commons-building.jpg"
-  },
-  {
-    "alt": "Exterior view of the main building at Adren Courts Glen Ellyn memory care community",
-    "image": "exterior-community-center-with-american-flag.jpg"
-  },
-  {
-    "alt": "Exterior view of ProMedica's Neuroscience center in Toledo, Ohio ",
-    "image": "university-toledo-neuroscience-center-building.jpg"
-  },
-  {
-    "alt": "A nurse leans over and puts her hand around the shoulder of a female hospice patient",
-    "image": "nurse-puts-her-hand-around-patients-shoulder.jpg"
-  },
-  {
-    "alt": "Exterior front view of the ProMedica Fostoria Community Hospital ",
-    "image": "exterior-fostoria-hospital-night.jpg"
-  },
-  {
-    "alt": "Exterior front view of the ProMedica Charles and Virginia Hickman hospital in Adrian, Michigan ",
-    "image": "charles-and-virginia-hickman-hospital.jpg"
-  },
-  {
-    "alt": "Exterior view of ProMedica Skilled Nursing and Rehabilitation clinic ",
-    "image": "exterior-of-promedica-skilled-nursing-rehabilitative-clinic.jpg"
-  },
-  {
-    "alt": "Exterior view of the ProMedica Urgent Care facility in Holland, Ohio ",
-    "image": "exterior-promedica-urgent-care-building.jpg"
-  },
-  {
-    "alt": "Exterior view of the ProMedica Jobst Vascular Institute for vein care ",
-    "image": "exterior-jobst-vascular-institute-day.jpg"
-  },
-  {
-    "alt": "Exterior view of ProMedica's Monroe regional hospital in Michigan ",
-    "image": "wide-exterior-promedica-monroe-regional-hospital.jpg"
-  }
-]
+[{"alt": "A nurses hand holds a foam heart representing cardiology care ", "image" : "nurses-hand-holds-foam-heart.jpg"},
+{"alt": "An expecting mother holds a sonogram image of her child ", "image" : "pregnant-mother-holds-sonogram-of-child.jpg"},
+{"alt": "Mature woman looking to the sky with a smile outside the ProMedica Cancer Institute", "image" : "smiling-mature-woman-looks-up-at-sky-ld.jpg"},
+{"alt": "Mature woman looking to the sky with a smile outside the ProMedica Cancer Institute", "image" : "smiling-mature-woman-looks-up-at-sky-sc.jpg"},
+{"alt": "Mature woman looking to the sky with a smile outside the ProMedica Cancer Institute", "image" : "smiling-mature-woman-looks-up-at-sky-tall.jpg"},
+{"alt": "Mature woman looking to the sky with a smile outside the ProMedica Cancer Institute", "image" : "smiling-mature-woman-looks-up-at-sky-wide.jpg"},
+{"alt": "A seated man holds his knee while wearing a knee brace ", "image" : "man-squeezes-knee-brace.jpg"},
+{"alt": "A mature pediatric male doctor listens to a boys breathing with a stethoscope ", "image" : "mature-doctor-uses-stethoscope-listens-to-boys-breathing.jpg"},
+{"alt": "A young female doctor listens to a boys heartbeat with a stethoscope ", "image" : "female-doctor-listens-to-boys-heartbeat.jpg"},
+{"alt": "A young man and woman smile while jogging during the day , ", "image" : "young-man-and-woman-jog-and-smile.jpg"},
+{"alt": "A woman covered in mud struggles to pull herself up a workout wall using a rope ", "image" : "woman-covered-in-mud-uses-a-workout-rope-ld.jpg"},
+{"alt": "A woman covered in mud struggles to pull herself up a workout wall using a rope ", "image" : "woman-covered-in-mud-uses-a-workout-rope-sc.jpg"},
+{"alt": "Exterior view of a residental bungalow at ProMedica's Lely Palms ", "image" : "exterior-view-of-residential-bungalow-with-car.jpg"},
+{"alt": "Exterior view of the ProMedica Fostoria Community Hospital Cancer Center ", "image" : "exterior-main-emergency-entrance-fostoria-hospital.jpg"},
+{"alt": "Exterior front view of ProMedica Flower hospital in Sylvania, Ohio ", "image" : "exterior-flower-hospital-day.jpg"},
+{"alt": "Exterior front view of the ProMedica Charles and Virginia Hickman hospital in Adrian, Michigan ", "image" : "charles-and-virginia-hickman-hospital.jpg"},
+{"alt": "A home health nurse helps an elderly woman read a nutrition label ", "image" : "nurse-reads-nutrition-label-to-elderly-woman.jpg"},
+{"alt": "A nurse leans over and puts her hand around the shoulder of a female hospice patient", "image" : "nurse-puts-her-hand-around-patients-shoulder.jpg"},
+{"alt": "Exterior view of ProMedica hospital in Toledo, Ohio ", "image" : "exterior-of-toledo-hospital.jpg"},
+{"alt": "Exterior view of ProMedica Laboratories Levis Commons ", "image" : "exterior-promedica-levi-commons-building.jpg"},
+{"alt": "Exterior view of the main building at Adren Courts Glen Ellyn memory care community", "image" : "exterior-community-center-with-american-flag.jpg"},
+{"alt": "Exterior view of ProMedica's Neuroscience center in Toledo, Ohio ", "image" : "university-toledo-neuroscience-center-building.jpg"},
+{"alt": "A nurse leans over and puts her hand around the shoulder of a female hospice patient", "image" : "nurse-puts-her-hand-around-patients-shoulder.jpg"},
+{"alt": "Exterior front view of the ProMedica Fostoria Community Hospital ", "image" : "exterior-fostoria-hospital-night.jpg"},
+{"alt": "Exterior front view of the ProMedica Charles and Virginia Hickman hospital in Adrian, Michigan ", "image" : "charles-and-virginia-hickman-hospital.jpg"},
+{"alt": "Exterior view of ProMedica Skilled Nursing and Rehabilitation clinic ", "image" : "exterior-of-promedica-skilled-nursing-rehabilitative-clinic.jpg"},
+{"alt": "Exterior view of the ProMedica Urgent Care facility in Holland, Ohio ", "image" : "exterior-promedica-urgent-care-building.jpg"},
+{"alt": "Exterior view of the ProMedica Jobst Vascular Institute for vein care ", "image" : "exterior-jobst-vascular-institute-day.jpg"},
+{"alt": "Exterior view of ProMedica's Monroe regional hospital in Michigan ", "image" : "wide-exterior-promedica-monroe-regional-hospital.jpg"}]
