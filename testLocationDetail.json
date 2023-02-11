@@ -1,0 +1,297 @@
+[
+  {
+    "id": 1,
+    "title": "Auxiliary Gift Shop ProMedica Toledo Hospital, Toledo, Ohio (OH), 43606",
+    "url": "https://www.promedica.org/location/auxiliary-gift-shop",
+    "content": {
+      "imgSrc": "https://www.promedica.org/assets/images/ih/locations/auxiliary-gift-shop-1417.jpg",
+      "imgAlt": "Auxiliary Gift Shop",
+      "name": "Auxiliary Gift Shop",
+      "address": [
+        {
+          "addressOne": "ProMedica Toledo Hospital\n2142 N. Cove Blvd.",
+          "addressTwo": "Toledo, Ohio 43606"
+        }
+      ],
+      "directions": "https://www.google.com/maps/dir//ProMedica%20Toledo%20Hospital2142%20N.%20Cove%20Blvd.Toledo,%20Ohio%2043606,+Toledo+43606/",
+      "phone": "419-291-4382",
+      "fax": null,
+      "campusMap": null,
+      "floorMap": null,
+      "description": "<br />Welcome to the ProMedica Toledo Hospital Auxiliary Gift Shop, a project of the ProMedica Toledo Hospital and Russell J. Ebeid Children’s Hospital Auxiliary. The Auxiliary Gift Shop provides a convenient retail shopping experience for our guests and employees.  Proceeds support Auxiliary funded patient services and projects to enhance care and comfort.  <br />The Gift Shop is located inside Entrance A of Toledo Hospital, on the first floor, next to the cafeteria.  <br />Stocked with fresh flowers, balloons, and a variety of sundries, gifts, and seasonal items, you are sure to find the perfect gift for your loved one. If you would like to send a gift to a patient on our campus, you can place a phone order.  <a href='/assets/documents/downloads/th_gift_shop_items.pdf' target='_blank'>Click here</a> to see some of our popular gift items. VISA, MasterCard, Discover and American Express are accepted.<br />Flower &amp; Gift Deliveries<br />Gifts and fresh flowers can be delivered to patient rooms.  Phone orders placed by 4 p.m. will be delivered to a patient room the same day. There is no delivery fee.  <br />Fresh flowers cannot be delivered to patients in Intensive Care Units, however mylar balloons are permitted. Delivery for on-campus only.<br /><img src='/assets/images/buildings/auxiliary_gift_shop_th_entrance.jpg' /><br />",
+      "virtualTour": null,
+      "operatingBody": null,
+      "operatingTable": "",
+      "operating": [
+        "Monday 9:00 a.m.-5:00 p.m.",
+        "Tuesday 9:00 a.m.-5:00 p.m.",
+        "Wednesday 9:00 a.m.-5:00 p.m.",
+        "Thursday 9:00 a.m.-5:00 p.m.",
+        "Friday 9:00 a.m.-5:00 p.m.",
+        "Saturday 12:00 p.m.-5:00 p.m."
+      ],
+      "services": [],
+      "amenities": [],
+      "education": [],
+      "pricing": "https://www.promedica.org/location/auxiliary-gift-shop",
+      "volunteer": "",
+      "foundations": "",
+      "PFAC": "",
+      "providers": [],
+      "moreProviders": null
+    }
+  },
+  {
+    "id": 2,
+    "title": "Coldwater Family Medical Center 370 E. Chicago St., Coldwater, Michigan (MI), 49036",
+    "url": "https://www.promedica.org/location/coldwater-family-medical-center",
+    "content": {
+      "imgSrc": null,
+      "imgAlt": null,
+      "name": "Coldwater Family Medical Center",
+      "address": [
+        {
+          "addressOne": "370 E. Chicago St.\nSuite 200",
+          "addressTwo": "Coldwater, Michigan 49036"
+        }
+      ],
+      "directions": "https://www.google.com/maps/dir//370%20E.%20Chicago%20St.Suite%20200Coldwater,%20Michigan%2049036,+Coldwater+49036/",
+      "phone": "517-279-5378",
+      "fax": null,
+      "campusMap": null,
+      "floorMap": null,
+      "description": "",
+      "virtualTour": null,
+      "operatingBody": null,
+      "operatingTable": "",
+      "operating": [],
+      "services": [],
+      "amenities": [],
+      "education": [],
+      "pricing": "https://www.promedica.org/location/coldwater-family-medical-center",
+      "volunteer": "",
+      "foundations": "",
+      "PFAC": "",
+      "providers": [
+        {
+          "imageSrc": "https://www.promedica.org/assets/images/ih/providers/danielle-beckettshedd-1867.jpg",
+          "imageAlt": "Danielle Beckett Shedd CNP",
+          "name": "DANIELLE BECKETT SHEDD CNP",
+          "gender": null,
+          "phone": "517-279-5378",
+          "specialty": "Family Medicine",
+          "location": "Coldwater Family Medical Center",
+          "newPatients": false,
+          "details": "https://www.promedica.org/provider/danielle-beckett-shedd-cnp-family-medicine"
+        },
+        {
+          "imageSrc": "https://www.promedica.org/assets/images/ih/providers/timothy-miller-1864.jpg",
+          "imageAlt": "Timothy Miller DO",
+          "name": "TIMOTHY MILLER DO",
+          "gender": null,
+          "phone": "517-279-5378",
+          "specialty": "Family Medicine",
+          "location": "Coldwater Family Medical Center",
+          "newPatients": false,
+          "details": "https://www.promedica.org/provider/timothy-miller-do-family-medicine"
+        },
+        {
+          "imageSrc": "https://www.promedica.org/assets/images/ih/providers/jennifer-santure-1866.jpg",
+          "imageAlt": "Jennifer Santure CNP",
+          "name": "JENNIFER SANTURE CNP",
+          "gender": null,
+          "phone": "517-279-5378",
+          "specialty": "Family Medicine",
+          "location": "Coldwater Family Medical Center",
+          "newPatients": false,
+          "details": "https://www.promedica.org/provider/jennifer-santure-cnp-family-medicine"
+        },
+        {
+          "imageSrc": "https://www.promedica.org/assets/images/ih/providers/sheresa-wilson-1865.jpg",
+          "imageAlt": "Sheresa Wilson PA",
+          "name": "SHERESA WILSON PA",
+          "gender": null,
+          "phone": "517-279-5378",
+          "specialty": "Family Medicine",
+          "location": "Coldwater Family Medical Center",
+          "newPatients": false,
+          "details": "https://www.promedica.org/provider/sheresa-wilson-pa-family-medicine"
+        }
+      ],
+      "moreProviders": "https://www.promedica.org/find-a-doctor/provider-results?Keyword=Coldwater%20Family%20Medical%20Center"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Coldwater Obstetrics | Gynecology - Maternity Services, Obstetrics/Gynecology, Well Women Care - 370 East Chicago St., Coldwater, Michigan (MI), 49036",
+    "url": "https://www.promedica.org/location/coldwater-obstetrics-gynecology",
+    "content": {
+      "imgSrc": "https://www.promedica.org/assets/images/ih/locations/promedica-coldwater-regional-hospital-1149.jpg",
+      "imgAlt": "Coldwater Obstetrics | Gynecology",
+      "name": "Coldwater Obstetrics | Gynecology",
+      "address": [
+        {
+          "addressOne": "370 East Chicago St.\nSuite 400",
+          "addressTwo": "Coldwater, Michigan 49036"
+        }
+      ],
+      "directions": "https://www.google.com/maps/dir//370%20East%20Chicago%20St.Suite%20400Coldwater,%20Michigan%2049036,+Coldwater+49036/",
+      "phone": "517-279-8465",
+      "fax": "517-279-8665",
+      "campusMap": null,
+      "floorMap": null,
+      "description": "The Coldwater Obstetrics and Gynecology Office on the campus of ProMedica Coldwater Regional Hospital is an outpatient facility with a team of health care specialists who offer you compassionate, high-quality care.<br />About this Location<br />Our diverse services help women at every stage of life. From preventive Pap tests, family planning and birth control, to abnormal bleeding, pelvic pain and menopause symptoms, our experts are here to help.<br />Virtual Tour<br />Take a <a href='https://tourmkr.com/F1hzPdWow9/29035747p&amp;359.32h&amp;90t' target='_blank'>virtual tour</a> of our labor and delivery unit and obstetrics &amp; gynecology office.<br /><br /><a href='https://tourmkr.com/F1hzPdWow9/29035747p&amp;359.32h&amp;90t' target='_blank'>Take a Virtual Tour</a><br />PC users: please use Microsoft Edge or Google Chrome to view the virtual tour. Virtual tour will not load in Internet Explorer.<br />",
+      "virtualTour": "https://tourmkr.com/F1hzPdWow9/29035747p&359.32h&90t",
+      "operatingBody": null,
+      "operatingTable": "",
+      "operating": [],
+      "services": [
+        "Maternity Services",
+        "Obstetrics/Gynecology",
+        "Well Women Care"
+      ],
+      "amenities": [],
+      "education": [],
+      "pricing": "https://www.promedica.org/location/coldwater-obstetrics-gynecology",
+      "volunteer": "",
+      "foundations": "",
+      "PFAC": "",
+      "providers": [
+        {
+          "imageSrc": "https://www.promedica.org/assets/images/ih/providers/john-clark-2261.jpg",
+          "imageAlt": "John Clark MD",
+          "name": "JOHN CLARK MD",
+          "gender": "Male",
+          "phone": "517-279-8465",
+          "specialty": "Obstetrics",
+          "location": "Coldwater Obstetrics | Gynecology",
+          "newPatients": true,
+          "details": "https://www.promedica.org/provider/john-clark-md-obstetrics"
+        },
+        {
+          "imageSrc": "https://www.promedica.org/assets/images/ih/providers/gail-widener-1963.jpg",
+          "imageAlt": "Gail Widener CNP",
+          "name": "GAIL WIDENER CNP",
+          "gender": "Female",
+          "phone": "517-279-8465",
+          "specialty": null,
+          "location": "Coldwater Obstetrics | Gynecology",
+          "newPatients": false,
+          "details": "https://www.promedica.org/provider/gail-widener-cnp"
+        }
+      ],
+      "moreProviders": "https://www.promedica.org/find-a-doctor/provider-results?Keyword=Coldwater%20Obstetrics%20|%20Gynecology"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Comprehensive Centers for Pain Management",
+    "url": "https://www.promedica.org/location/comprehensive-centers-for-pain-management",
+    "content": {
+      "imgSrc": null,
+      "imgAlt": null,
+      "name": "Comprehensive Centers for Pain Management",
+      "address": [
+        {
+          "addressOne": "3400 Meijer Drive\n",
+          "addressTwo": "Toledo, Ohio 43617"
+        }
+      ],
+      "directions": "https://www.google.com/maps/dir//3400%20Meijer%20DriveToledo,%20Ohio%2043617,+Toledo+43617/",
+      "phone": "419-843-1370",
+      "fax": null,
+      "campusMap": null,
+      "floorMap": null,
+      "description": "",
+      "virtualTour": null,
+      "operatingBody": null,
+      "operatingTable": "",
+      "operating": [],
+      "services": [
+        "Pain Management"
+      ],
+      "amenities": [],
+      "education": [],
+      "pricing": "https://www.promedica.org/location/comprehensive-centers-for-pain-management",
+      "volunteer": "",
+      "foundations": "",
+      "PFAC": "",
+      "providers": [
+        {
+          "imageSrc": "https://www.promedica.org/assets/images/ih/providers/brandon-stokey-2165.jpg",
+          "imageAlt": "Brandon Stokey MD",
+          "name": "BRANDON STOKEY MD",
+          "gender": "Male",
+          "phone": "419-291-4000",
+          "specialty": "Anesthesia",
+          "location": "ProMedica Toledo Hospital",
+          "newPatients": true,
+          "details": "https://www.promedica.org/provider/brandon-stokey-md-anesthesia"
+        }
+      ],
+      "moreProviders": "https://www.promedica.org/find-a-doctor/provider-results?Keyword=Comprehensive%20Centers%20for%20Pain%20Management"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Coping Center - Defiance Regional Hospital - Inpatient Psychiatric Services, Medication Management, Psychiatry - 1200 Ralston Ave., Defiance, Ohio (OH), 43512",
+    "url": "https://www.promedica.org/location/coping-center-defiance-regional-hospital",
+    "content": {
+      "imgSrc": "https://www.promedica.org/assets/images/buildings/acutecare/defiance.jpg",
+      "imgAlt": "Coping Center - Defiance Regional Hospital",
+      "name": "Coping Center - Defiance Regional Hospital",
+      "address": [
+        {
+          "addressOne": "1200 Ralston Ave.\n",
+          "addressTwo": "Defiance, Ohio 43512"
+        }
+      ],
+      "directions": "https://www.google.com/maps/dir//1200%20Ralston%20Ave.Defiance,%20Ohio%2043512,+Defiance+43512/",
+      "phone": "419-783-6957",
+      "fax": "419-783-4418",
+      "campusMap": null,
+      "floorMap": null,
+      "description": "The ProMedica Defiance Regional Hospital Coping Center provides patients with a full range of adult inpatient psychiatric services. Our goal is to partner with patients to help them deal with the stressors of life in a safe and caring environment.<br />Accommodations<br />There are 10 patient rooms in the department, all are private and spacious.<br />Each room has a private bathroom, sofa, desk area, and chair.<br />Common areas for dining, TV, telephone services, and other activities<br />Outdoor patio (weather permitting)  <br /><a href='https://www.promedica.org/assets/images/organizationalunit/nurse-station_drmc-coping-center.jpg' target='_blank'><img src='https://www.promedica.org/assets/images/organizationalunit/nurse-station_drmc-coping-center.jpg' alt='nurses station' /></a><br />Nurses' station<br /><a href='https://www.promedica.org/assets/images/organizationalunit/private-room_drmc-coping-center.jpg' target='_blank'><img src='https://www.promedica.org/assets/images/organizationalunit/private-room_drmc-coping-center.jpg' alt='private room with a single bed, couch, sink, and bathroom stall' /></a><br />Private room<br /><a href='https://www.promedica.org/assets/images/organizationalunit/common-area_drmc-coping-center.jpg' target='_blank'><img src='https://www.promedica.org/assets/images/organizationalunit/common-area_drmc-coping-center.jpg' alt='common area with kitchen counter, refrigerator, chairs and tables' /></a><br />Common area and kitchen<br /><a href='https://www.promedica.org/assets/images/organizationalunit/activity-room_drmc-coping-center.jpg' target='_blank'><img src='https://www.promedica.org/assets/images/organizationalunit/activity-room_drmc-coping-center.jpg' alt='activity room filled with a long table surrounded by chairs' /></a><br />Activity room<br />Services<br />Offers patient-centered care designed to meet individual needs<br />Treatment team includes Psychiatrists, Psychologist, Nurses, Social Workers, and Activity Therapists.<br />Structured programs in a group setting that use art, music, and other activities to help build healthy coping skills<br />Connecting to Services<br />Call 911<br />Go to the nearest Emergency Center<br />Suicide Prevention Hotline <a href='tel:1-800-273-8255'>1-800-273-8255</a><br />",
+      "virtualTour": null,
+      "operatingBody": null,
+      "operatingTable": "",
+      "operating": [],
+      "services": [
+        "Inpatient Psychiatric Services",
+        "Medication Management",
+        "Psychiatry"
+      ],
+      "amenities": [],
+      "education": [],
+      "pricing": "https://www.promedica.org/location/coping-center-defiance-regional-hospital",
+      "volunteer": "",
+      "foundations": "",
+      "PFAC": "",
+      "providers": [
+        {
+          "imageSrc": "https://www.promedica.org/assets/images/ih/providers/melchor-mercado-180.jpg",
+          "imageAlt": "Melchor L Mercado MD",
+          "name": "MELCHOR MERCADO MD",
+          "gender": "Male",
+          "phone": "419-783-6805",
+          "specialty": "Psychiatry",
+          "location": "ProMedica Behavioral Health - Defiance",
+          "newPatients": true,
+          "details": "https://www.promedica.org/provider/melchor-l-mercado-md-psychiatry"
+        },
+        {
+          "imageSrc": "https://www.promedica.org/assets/images/ih/providers/stephen-williams-2485.jpg",
+          "imageAlt": "Stephen Williams MD",
+          "name": "STEPHEN WILLIAMS MD",
+          "gender": "Male",
+          "phone": "419-783-6805",
+          "specialty": "Psychiatry",
+          "location": "ProMedica Behavioral Health - Defiance",
+          "newPatients": true,
+          "details": "https://www.promedica.org/provider/stephen-williams-md-psychiatry"
+        }
+      ],
+      "moreProviders": "https://www.promedica.org/find-a-doctor/provider-results?Keyword=Coping%20Center%20-%20Defiance%20Regional%20Hospital"
+    }
+  }
+ ]
